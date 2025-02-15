@@ -6,7 +6,7 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=ian-hon&theme=midnight-purple">
     <br><br><br>
-    <img src="https://komarev.com/ghpvc/?username=ian-hon&style=pixel">
+    <img src="https://komarev.com/ghpvc/?username=ian-hon">
     <br>
     <a href="https://wakatime.com/share/@ian_hon/db141280-e10b-443a-b2ab-3e98178558d5.svg"><img src="https://wakatime.com/share/@ian_hon/db141280-e10b-443a-b2ab-3e98178558d5.svg" width= 300px></a>
     <a href="https://wakatime.com/share/@ian_hon/a6cdcb09-36d0-4a09-8e92-ae92f736c5d5.svg"><img src="https://wakatime.com/share/@ian_hon/a6cdcb09-36d0-4a09-8e92-ae92f736c5d5.svg" width= 300px></a>
